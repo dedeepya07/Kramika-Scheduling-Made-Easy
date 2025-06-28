@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35583727431",
+    "project_id": "daily-scheduler-8f6b5",
+    "storage_bucket": "daily-scheduler-8f6b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35583727431:android:671f7856bcfd1457229e62",
+        "android_client_info": {
+          "package_name": "com.example.dailyscheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZu_yG7N2WRN9N4_yj4yLC_hA1Z2TLro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
